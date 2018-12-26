@@ -13,6 +13,7 @@ Install the gekodriver for selenium firefox driver (https://dzone.com/articles/p
 
 ### How to run the program
 
+Run the command python kissmanga.py 
 Give the proper manga name to be searched.
 It will generate a list of manga or directly got to the manga chapter list.
 Select the proper manga serial number.
