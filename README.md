@@ -21,6 +21,7 @@ For downloading the chapters:
 + give all to download all the chapters
 + give one index to download only that chapter
 + give two index (starting and ending) to download multiple series of chapters
+
 It will create a dowloads folder.In that folder you will have your manga_named folder and in that folder you will have your pdf for the chapters you dowloaded.
 
 ### PS
