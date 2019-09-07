@@ -6,10 +6,15 @@ A python 3 script to download manga
 
 Currently only script for downloading manga from kissmanga is avalable.**Install requests,img2pdf,selenium,PIL and io module**. Clone this repo and then run the command python/python3 kissmanga.py 
 
-### Prerequisites
+### Requirements
 
-Install the modules requests,img2pdf,selenium,PIL and io.(using pip)
-Install the gekodriver for selenium firefox driver (https://dzone.com/articles/python-getting-started)
+Install the modules:
++ requests
++ img2pdf
++ selenium
++ PIL
++ io
+Install the gekodriver for [selenium firefox driver](https://dzone.com/articles/python-getting-started)
 
 ### How to run the program
 
